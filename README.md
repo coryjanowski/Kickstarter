@@ -1,4 +1,3 @@
-Kickstarter
 Analysis of Kickstarter data set from Kaggle.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut posuere, lectus vel consectetur tempor, orci tellus tristique lorem, ut viverra nulla lectus non libero. Fusce in elementum quam. Nulla porta dignissim auctor. Donec bibendum risus quis viverra mollis. Nam nibh risus, bibendum vitae commodo eu, semper rhoncus ipsum. Aliquam tristique, tortor a sollicitudin dignissim, turpis arcu fermentum elit, vitae elementum justo sapien ac nulla. Nam dignissim purus sed magna vulputate dictum. Cras ornare sem ac arcu venenatis suscipit. Curabitur auctor sodales porttitor. Curabitur nisl felis, commodo maximus aliquam quis, suscipit vitae turpis. Quisque nisi tellus, pellentesque ut dui sed, euismod dignissim metus. Sed ex massa, vehicula a ultrices et, pellentesque sed odio. Duis sodales tellus at enim dapibus, ac fringilla justo ornare. Ut vel molestie nisl.
